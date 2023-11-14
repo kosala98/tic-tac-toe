@@ -23,7 +23,7 @@
     outline: none;
     cursor: pointer;
     border-radius: 50px;
-    background: #27374D;
+    background: #6998AB;
     font-size: 26px;
     color: #F9F3CC;
     margin-top: 25px;
@@ -35,7 +35,7 @@
     height: 180px;
     width: 180px;
     background: #6998AB;
-    border: 4px solid #0f1b21;
+    border: 4px solid #406882;
     border-radius: 12px;
     cursor: pointer;
 }
@@ -45,5 +45,15 @@
     width: 564px;
     display: flex;
     margin: auto;
+
+}
+
+.boxes img {
+    margin: 50px;
+}
+
+.title img{
+    padding: 20px 20px;
+    height: 50px;
 
 }
